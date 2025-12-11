@@ -1,0 +1,2 @@
+Error: Collinear Points - All points lie on a single line
+

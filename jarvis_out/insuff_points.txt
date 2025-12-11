@@ -1,0 +1,2 @@
+Error: Insufficient Points - At least 3 unique points required
+

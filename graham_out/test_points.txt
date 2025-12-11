@@ -1,0 +1,29 @@
+Convex Hull Vertices (in order):
+Point 0: (0.000000, 0.000000)
+Point 1: (4.000000, 0.000000)
+Point 2: (4.000000, 4.000000)
+Point 3: (0.000000, 4.000000)
+Dimension of the convex hull: 4
+
+========================================
+PERFORMANCE METRICS
+========================================
+
+Time-Based Metrics:
+  Preprocessing Time: 0.006 ms
+  Sorting Time: 0.020 ms
+  Algorithm Time (hull construction): 0.006 ms
+  Total Runtime: 0.482 ms
+
+Operation Count Metrics:
+  Orientation Tests: 4
+  Number of Comparisons: 14
+
+Space Metrics:
+  Peak Memory Usage: 0.20 KB
+  Stack Maximum Size: 4
+
+Input/Output Characterization:
+  Input Size (after duplicate removal): 5
+  Hull Size: 4
+========================================
