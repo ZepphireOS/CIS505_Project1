@@ -10,10 +10,10 @@ PERFORMANCE METRICS
 ========================================
 
 Time-Based Metrics:
-  Preprocessing Time: 3.029 ms
-  Sorting Time: 55.630 ms
-  Algorithm Time (hull construction): 0.176 ms
-  Total Runtime: 63.563 ms
+  Preprocessing Time: 7.441 ms
+  Sorting Time: 50.609 ms
+  Algorithm Time (hull construction): 0.160 ms
+  Total Runtime: 25380.113 ms
 
 Operation Count Metrics:
   Orientation Tests: 1994

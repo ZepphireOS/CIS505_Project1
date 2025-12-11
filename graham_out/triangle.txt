@@ -1,2 +1,28 @@
-Error: Dimension Mismatch - Either Inconsistent Dimensions or non-2D Dimensions
+Convex Hull Vertices (in order):
+Point 0: (1.000000, 1.000000)
+Point 1: (4.000000, 1.000000)
+Point 2: (2.500000, 3.000000)
+Dimension of the convex hull: 3
 
+========================================
+PERFORMANCE METRICS
+========================================
+
+Time-Based Metrics:
+  Preprocessing Time: 0.005 ms
+  Sorting Time: 0.019 ms
+  Algorithm Time (hull construction): 0.005 ms
+  Total Runtime: 10273.635 ms
+
+Operation Count Metrics:
+  Orientation Tests: 1
+  Number of Comparisons: 4
+
+Space Metrics:
+  Peak Memory Usage: 0.14 KB
+  Stack Maximum Size: 3
+
+Input/Output Characterization:
+  Input Size (after duplicate removal): 3
+  Hull Size: 3
+========================================

@@ -11,7 +11,7 @@ PERFORMANCE METRICS
 Time-Based Metrics:
   Preprocessing Time: 0.003 ms
   Algorithm Time: 0.003 ms
-  Total Runtime: 0.524 ms
+  Total Runtime: 21322.342 ms
 
 Operation Count Metrics:
   Orientation Tests: 9

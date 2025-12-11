@@ -1,2 +1,2 @@
-Error: Empty File
+Error: Input/Output Error - Cannot read file
 
