@@ -44,7 +44,7 @@ Create a CSV (Comma-Separated Values) file with 2D coordinates. Each line should
 For random point generation within the range of 0.0 to 100.0, run the python file generator.py within the 'tests' folder. This was run on Python 3.12.3 and should not need extra packages. The term 'square' can be optionally added to the end to enclose all the points within a large square.
 
 ```bash
-python3 tests/generator.py \<num_points\> \<output.csv\> \[square\]
+python3 tests/generator.py <num_points> <output.csv> [square]
 ```
 
 ## Running the Programs
@@ -64,8 +64,8 @@ Run the program by running the executable. Rename it as required. Keep in mind t
 or
 
 ```bash
-./jarvis.exe \<inputFilename\> \<outputFilename\>
-./graham.exe \<inputFilename\> \<outputFilename\>
+./jarvis.exe <inputFilename> <outputFilename>
+./graham.exe <inputFilename> <outputFilename>
 ```
 
 ## Accessing Tests
